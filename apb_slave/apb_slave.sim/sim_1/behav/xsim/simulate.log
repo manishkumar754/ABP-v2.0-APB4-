@@ -1,0 +1,5 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Starting APB v2.0 Slave Test...
+APB Slave Test PASSED
+$finish called at time : 175 ns : File "C:/Users/manis/Desktop/Activity/semi_design/APB4/apb_slave/apb_slave.srcs/sim_1/new/apb_slave_tb.v" Line 54

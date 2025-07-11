@@ -1,0 +1,15 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 83fec15ae958431d98fa4689f14c4074 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot apb_slave_tb_behav xil_defaultlib.apb_slave_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-696] first argument of $fatal is invalid, expecting 0, 1 or 2 [C:/Users/manis/Desktop/Activity/semi_design/APB4/apb_slave/apb_slave.srcs/sim_1/new/apb_slave_tb.v:82]
+Completed static elaboration
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 82, File C:/Users/manis/Desktop/Activity/semi_design/APB4/apb_slave/apb_slave.srcs/sim_1/new/apb_slave_tb.v
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.apb_slave
+Compiling module xil_defaultlib.apb_slave_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot apb_slave_tb_behav
